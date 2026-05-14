@@ -1,0 +1,64 @@
+
+# Balanço energético na natureza
+
+## Introdução
+
+Como uma planta regula sua temperatura? O que é ponto de orvalho? Por que noites nubladas são mais quentes? 
+
+A resposta a todas essas perguntas envolve as forças gravitacional e eletromagnética. Porém, as respostas serão obtidas de modo mais natural em termos da contabilidade de energia.
+
+Antes de iniciarmos essa contabilidade, vamos ver algumas definições e princípios fundamentais.
+
+#### Sistema
+
+É a porção de matéria que está sendo estudada. A depender da situação, o sistema pode ser uma massa de solo, uma massa de ar, um célula, uma planta, o cômodo de uma casa, a atmosfera, o planeta inteiro, etc.
+
+Analisemos a contabilidade da energia do sistema e suas trocas com a sua **vizinhança**.
+
+#### O que é energia?
+
+Energia é um conceito que nasce na Mecânica para medir a quantidade de movimento de um conjunto de partículas. Estamos falando da energia cinética (energia da matéria em movimento). Uma partícula de massa $m$ com velocidade $v$ tem energia cinética:
+\begin{equation}
+K = \frac{1}{2}mv^2\;.
+\end{equation}
+A unidade padrão da energia cinética é o **Joule**. 
+
+Exemplo: uma pedra de 1 kg atinge o chão com velocidade de 3 m/s. Qual era a sua energia cinética? 
+\begin{equation}
+K = 0,5*(1\,kg)*(3\,m/s)^2= 4,5\,J\,.
+\end{equation}
+
+Experimento mental para entender a utilidade do conceito de energia cinética: dois corpos grandes como planetas estão distantes e se movem, se aproximando. Inicialmente, um tinha energia cinética $K_1$ e o outro, $K_2$. A energia cinética combinada era $K_{12}=K_1+K_2$. A trajetória dos planetas é tal que eles se aproximam. Pela força da gravidade, um sente a presença do outro. Suas velocidades se alteram. Neste momento, a soma das energias cinéticas não é mais a mesma de antes. Após um tempo, cada um segue uma trajetória e eles se afastam. Ao fim, a energia cinética do planeta 1 vai ser $K'_1\neq K_1$ e a do planeta 2 será $K_2' \neq K_2$. Porém, $K_1'+K_2' = K_1+K_2$. 
+
+Esse experimento mental nos leva a pensar que, enquanto interagiam, a contabilidade de energia ainda pod
+
+#### Energia interna do sistema
+
+A **energia interna** de um sistema se ditribui nas seguintes formas:
+
+- Energia cinética do movimento de agitação dos átomos e moléculas que o compõe.
+
+Átomos e moléculas têm massa e estão em movimento. Portanto, têm energia cinética. A energia cinética média associada à agitação das particulas de um sistema é a **temperatura**.
+
+- Energia potencial nas ligações químicas das substâncias que compõem o sistema. 
+    
+Assim como uma mola dura comprimida tem mais energia potencial elástica que uma mola mole igualmente comprimida, diferentes ligações químicas guardam quantidades diferentes de energia.
+    
+ Exemplo: o floema tem mais energia química do que o xilema. A diferença da energia química das moléculas foi adquirida na fotossíntese.
+
+- Energia potencial na organização coletiva das moléculas de líquidos e sólidos.
+
+A depender da forma como os átomos e moléculas se organizam, a energia pode variar. Assim, moléculas de água organizadas na fase sólida (gelo) têm uma energia de organização diferente de quando estão na fase líquida ou gasosa. Isso ocorre porque muda a forma das ligações **intermoleculares** (entre os átomos e moléculas).
+
+#### Equilíbrio termodinâmico
+
+Todo sistema, após um certo tempo, tende a uniformizar suas propriedades. Sistemas simples, como água contida em um recipiente, podem ser caracterizados por algumas poucas variáveis, como o volume, a pressão, a energia e a temperatura. 
+
+
+:::{figure} ./figures/refracaoagua.png
+---
+width: 500px
+name: fig_refracaoagua
+---
+:::
+

@@ -1,0 +1,14 @@
+
+# Balanço energético na natureza
+
+## Introdução
+
+Vamos estudar 
+:::{figure} ./figures/refracaoagua.png
+---
+width: 500px
+name: fig_refracaoagua
+---
+O índice de refração da água depende do comprimento de onda de um modo complicado. Perceba a extensão do domínio do gráfico. O valor 1,33 é típico dos comprimentos de onda visíveis (na faixa de centenas de nanômetros, como destacado na faixa vertical).
+:::
+
