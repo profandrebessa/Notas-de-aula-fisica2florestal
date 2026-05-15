@@ -20,7 +20,7 @@ Analisemos a contabilidade da energia do sistema e suas trocas com a sua **vizin
 
 Energia é um conceito que nasce na Mecânica para medir a quantidade de movimento de um conjunto de partículas. Estamos falando da energia cinética (energia da matéria em movimento). Uma partícula de massa $m$ com velocidade $v$ tem energia cinética:
 \begin{equation}
-K = \frac{1}{2}mv^2\;\;\;\hbox{(energia cinética)}.
+K = \frac{1}{2}mv^2\;.
 \end{equation}
 A unidade padrão da energia cinética é o **Joule**. 
 
@@ -29,28 +29,9 @@ Exemplo: uma pedra de 1 kg atinge o chão com velocidade de 3 m/s. Qual era a su
 K = 0,5*(1\,kg)*(3\,m/s)^2= 4,5\,J\,.
 \end{equation}
 
-#### Experimento mental
+<!-- Experimento mental para entender a utilidade do conceito de energia cinética: dois corpos grandes como planetas estão distantes e se movem, se aproximando. Inicialmente, um tinha energia cinética $K_1$ e o outro, $K_2$. A energia cinética combinada era $K_{12}=K_1+K_2$. A trajetória dos planetas é tal que eles se aproximam. Pela força da gravidade, um sente a presença do outro. Suas velocidades se alteram. Neste momento, a soma das energias cinéticas não é mais a mesma de antes. Após um tempo, cada um segue uma trajetória e eles se afastam. Ao fim, a energia cinética do planeta 1 vai ser $K'_1\neq K_1$ e a do planeta 2 será $K_2' \neq K_2$. Porém, $K_1'+K_2' = K_1+K_2$. 
 
-Dois corpos grandes como planetas estão distantes e se movem, se aproximando. Inicialmente, um tinha energia cinética $K_1$ e o outro, $K_2$. A energia cinética combinada era $K_{12}=K_1+K_2$. A trajetória dos planetas é tal que eles se aproximam. Pela força da gravidade, um sente a presença do outro. Suas velocidades se alteram. Neste momento, a soma das energias cinéticas não é mais a mesma de antes. Após um tempo, cada um segue uma trajetória e eles se afastam. Ao fim, a energia cinética do planeta 1 vai ser $K'_1\neq K_1$ e a do planeta 2 será $K_2' \neq K_2$. Porém, $K_1'+K_2' = K_1+K_2$. 
-
-Concluímos que, enquanto interagiam, a contabilidade de energia ainda pode ser feita, embora ela não seja apenas cinética. A diferença na contabilidade ganha um nome: **energia potencial**.
-
-Assim, quando um objeto de massa $m$ é atirado para o alto, ele parte com uma velocidade alta e tem uma certa energia cinética. À medida em que sobe, sua energia cinética diminui. Em termos de contabilidade de energia, dizemos que aumentou a **energia potencial gravitacional** do corpo na interação com o planeta Terra. 
-
-Nas proximidades da superfície da Terra, a energia potencial gravitacional é dada por:
-\begin{equation}
-U_g = mgh\;\;\;\hbox{(energia potencial gravitacional)}.
-\end{equation}
-A contabilidade é tal que:
-\begin{equation}
-\frac{1}{2}mv^2 + mgh \approx \hbox{ constante}.
-\end{equation}
-No ponto mais alto, a energia cinética é zero e a potencial é máxima. Na descida, a energia cinética volta a aumentar e a potencial diminui.
-
-A soma da energia cinética com a potencial não é exatamente constante porque perdemos parte da contabilidade. De fato, a presença do ar faz com que parte da energia na subida e descida seja transferida para o movimento do ar em volta do objeto. Isso fica bem perecetível quando um objeto se move na água.
-
-Quando objeto chega no chão sua energia cinética vai a zero e a potencial será mínima? Como fica a contabilidade de energia? Para ficar completa, a contabilidade de energia não pode se resumir a acompanhar a energia cinética e potencial gravitacional de pedras, pássaros, etc. Precisamos mergulhar na formas de energia interna dos corpos.
-
+Concluímos que, enquanto interagiam, a contabilidade de energia ainda pode ser feita, embora ela não seja apenas cinética. A diferença na contabilidade ganha um nome: energia potencial. -->
 
 ## Energia interna do sistema
 
@@ -99,13 +80,13 @@ Todo sistema, após um certo tempo, tende a uniformizar suas propriedades. Siste
 
 #### Escalas de temperatura
 
-A escala que usamos no dia-a-dia é a escala **Celsius**. Assim, sob pressão atmosférica, dizemos que a temperatura em que a água se solidifica em gelo é $0^\circ C$. A temperatura de ebulição da água é $100^\circ C$. 
+A escala que usamos no dia-a-dia é a escala **Celsius**. Assim, sob pressão atmosférica, dizemos que a temperatura em que a água se solidifica em gelo é $0^\circ$C. A temperatura de ebulição da água é $100^\circ$C. 
 
 Uma escala mais interessante do ponto de vista da compreensão dos fenômenos é a escala Kelvin. A temperatura de solidificação da água é $273,15K$. A temperatura de ebulição é $373,15K$. 
 
-Imagine uma situação de um sistema que não tem agitação nenhuma. Tudo em repouso. Na escala Kelvin, sua temperatura seria zero, como esperado. Na escala Celsius, a temperatura correspondente seria $-273,15^\circ C$.
+Imagine uma situação de um sistema que não tem agitação nenhuma. Tudo em repouso. Na escala Kelvin, sua temperatura seria zero, como esperado. Na escala Celsius, a temperatura correspondente seria $-273,15^\circ$C.
 
-Note que não usamos $100^\circ K$, mas $100K$. Observe também que quando um corpo aumenta a sua temperatura em $1^\circ C$, sua temperatura aumentou em $1K$. Em geral, temos:
+Note que não usamos $100^\circ K$, mas $100K$. Observe também que quando um corpo aumenta a sua temperatura em $1^\circ$C, sua temperatura aumentou em $1K$. Em geral, temos:
 \begin{equation}
 (T)_{Celsius} \;=\;(T)_{Kelvin} - 273,15\;. 
 \end{equation}
@@ -175,4 +156,4 @@ No balanço da energia de um sistemas, vamos denotar por $W$ o trabalho externo 
 \end{equation}
 A energia contabilizada como calor será considerada positiva quando a energia está entrando por calor.
 
-#### 
+####

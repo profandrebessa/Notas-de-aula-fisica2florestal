@@ -1,0 +1,118 @@
+
+# Balanço energético na natureza
+
+## Introdução
+
+Como uma planta regula sua temperatura? O que é ponto de orvalho? Por que noites nubladas são mais quentes? 
+
+A resposta a todas essas perguntas envolve as forças gravitacional e eletromagnética. Porém, as respostas serão obtidas de modo mais natural em termos da contabilidade de energia.
+
+Antes de iniciarmos essa contabilidade, vamos ver algumas definições e princípios fundamentais.
+
+#### Sistema
+
+É a porção de matéria que está sendo estudada. A depender da situação, o sistema pode ser uma massa de solo, uma massa de ar, um célula, uma planta, o cômodo de uma casa, a atmosfera, o planeta inteiro, etc.
+
+Analisemos a contabilidade da energia do sistema e suas trocas com a sua **vizinhança**.
+
+
+#### O que é energia?
+
+Energia é um conceito que nasce na Mecânica para medir a quantidade de movimento de um conjunto de partículas. Estamos falando da energia cinética (energia da matéria em movimento). Uma partícula de massa $m$ com velocidade $v$ tem energia cinética:
+\begin{equation}
+K = \frac{1}{2}mv^2\;.
+\end{equation}
+A unidade padrão da energia cinética é o **Joule**. 
+
+Exemplo: uma pedra de 1 kg atinge o chão com velocidade de 3 m/s. Qual era a sua energia cinética? 
+\begin{equation}
+K = 0,5*(1\,kg)*(3\,m/s)^2= 4,5\,J\,.
+\end{equation}
+
+<!-- Experimento mental para entender a utilidade do conceito de energia cinética: dois corpos grandes como planetas estão distantes e se movem, se aproximando. Inicialmente, um tinha energia cinética $K_1$ e o outro, $K_2$. A energia cinética combinada era $K_{12}=K_1+K_2$. A trajetória dos planetas é tal que eles se aproximam. Pela força da gravidade, um sente a presença do outro. Suas velocidades se alteram. Neste momento, a soma das energias cinéticas não é mais a mesma de antes. Após um tempo, cada um segue uma trajetória e eles se afastam. Ao fim, a energia cinética do planeta 1 vai ser $K'_1\neq K_1$ e a do planeta 2 será $K_2' \neq K_2$. Porém, $K_1'+K_2' = K_1+K_2$. 
+
+Concluímos que, enquanto interagiam, a contabilidade de energia ainda pode ser feita, embora ela não seja apenas cinética. A diferença na contabilidade ganha um nome: energia potencial. -->
+
+#### Energia interna do sistema
+
+A **energia interna** de um sistema se ditribui nas seguintes formas:
+
+- **Energia cinética de agitação dos átomos e moléculas que compõe o sistema.**
+:::{figure} ./_static/gas3.mp4
+---
+width: 80%
+figclass: margin-caption
+name: gas3
+---
+Simulação do movimento de agitação térmica de átomos e moléculas.
+:::
+
+Átomos e moléculas têm massa e estão em movimento. Portanto, têm energia cinética. A **energia cinética média** associada à agitação das particulas de um sistema é a **temperatura**. Quando a temperatura aumenta é porque aumentou a energia cinética média de agitação. Dizemos que a água foi aquecida.
+
+- **Energia potencial nas ligações químicas das substâncias que compõem o sistema.** 
+    
+:::{figure} ./_static/energiaglicosequebra.png
+---
+width: 500px
+name: energiaglicosequebra
+---
+A energia guardada na molécula de glicose é maior do que a energia guardada nas moléculas de gás carbônico $CO_2$ e de água $H_2O$.
+:::
+Assim como uma mola dura comprimida tem mais energia potencial elástica que uma mola mole igualmente comprimida, diferentes ligações químicas guardam quantidades diferentes de energia.
+   
+Exemplo aplicado: o floema tem mais energia química do que o xilema. A diferença da energia química das moléculas foi adquirida na fotossíntese.
+
+- **Energia potencial na organização coletiva das moléculas.**
+
+:::{figure} ./_static/energiaagualiquidogas.png
+---
+width: 400px
+name: energiaagualiquidogas
+---
+A água na fase líquida tem energia guardada nas interações entre as moléculas. Na fase gasosa, praticamente não há essas ligações.
+:::
+
+A depender da forma como os átomos e moléculas se organizam, a energia pode variar. Assim, moléculas de água organizadas na fase sólida (gelo) têm uma energia de organização diferente de quando estão na fase líquida ou gasosa. Isso ocorre porque muda a forma das ligações **intermoleculares** (entre os átomos e moléculas).
+
+#### Equilíbrio termodinâmico
+
+Todo sistema, após um certo tempo, tende a uniformizar suas propriedades. Sistemas simples, como água contida em um recipiente, podem ser caracterizados por algumas poucas variáveis, como o volume, a pressão, a energia e a temperatura. 
+
+
+#### O que faz aumentar ou diminuir a energia interna de um sistema?
+
+Considere o sistema formado por um litro de água. Podemos aumentar a energia interna da água fazendo girar uma pá dentro da água, como mostra a figura.
+:::{figure} ./_static/energiatrabalhomecanico.png
+---
+width: 300px
+name: energiatrabalhomecanico
+---
+Quando o bloco cai, faz girar as pás dentro da água. Após um tempo, as pás param de se mover: sua energia cinética foi transferida para a água.
+:::
+
+Depois de um tempo, a pá é freada pela água. Pra onde foi a energia cinética da pá? Ela foi transferida para a água. Neste caso, as moléculas da água ficaram mais agitadas: houve aumento da temperatura. Isso acontece porque, ao girar, a pá empurra as moléculas da água, dando energia cinética a elas.
+
+Isso ocorre também quando se comprime um fluido. Veja o que acontece com o gás em um pistão quando ele é comprimido.
+:::{figure} ./_static/energiatrabalhocompressao.jpg
+---
+width: 300px
+name: energiatrabalhocompressao
+---
+Ao comprimir um pistão, damos energia cinética ao gás. Quando o pistão é que empurra e se expande, o gás faz isso com redução da sua energia cinética.
+:::
+Ao empurrar o pistão, as moléculas do gás são empurradas e ganham energia cinética. Perceba que o oposto pode acontecer: quando gás se expande, o saldo é de um empurrão do gás, que fica com menos energia cinética.
+
+Na natureza, não temos pistões mecânicos como esse. Mas, temos mecanismos de expansão e compressão de um sistema contra a sua vizinhança. Pode ser uma massa de ar que se expande ao se aquecer, pode ser uma célula que se expande quando absorve água. 
+ 
+Esse tipo de transferência de energia em que há forças externas atuando sobre o sistema é chamado de **trabalho**. Dizemos que o trabalho é positivo quando a energia interna do sistema aumenta. O trabalho é negativo quando a energia interna do sistema diminui, como na expansão do gás.
+
+Há, porém, uma forma diferente de variar a energia interna do sistema. Quando o sistema a uma certa temperatura é posto em contato com uma vizinhança que tem uma temperatura diferente, a tendência é que a temperatura se equilibre. Para isso, o sistema com maior energia cinética média (temperatura) fica menos agitado, enquanto o outro fica mais agitado. Esse tipo de troca de energia é chamado de **calor** por contato térmico.
+
+:::{figure} ./_static/energiacalorconducao.png
+---
+width: 450px
+name: energiacalorconducao
+---
+A figura ilustra a troca de energia que chamamos de calor por condução. As moléculas do sistema $A$ tem energia cinética média maior (veja o tamanho da setinha) que as de $B$. Ao serem colocados em contato térmico (mesmo que na vizinhança) a energia cinética média de $A$ diminui, e a de $B$ aumenta, até que se igualem.
+:::
+
