@@ -22,11 +22,11 @@ jobs:
 
       - run: pip install jupyter-book myst-parser
 
-      - run: jupyter-book build .
+      - run: jupyter-book start
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: _build/html
+          path: _build/site  
 
   deploy:
     needs: build
