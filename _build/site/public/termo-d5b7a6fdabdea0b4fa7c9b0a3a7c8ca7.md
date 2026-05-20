@@ -137,7 +137,7 @@ Na natureza, não temos pistões mecânicos como esse. Mas, temos mecanismos de 
  
 Esse tipo de transferência de energia em que há forças externas atuando sobre o sistema é chamado de **trabalho**. Dizemos que o trabalho é positivo quando a energia interna do sistema aumenta. O trabalho é negativo quando a energia interna do sistema diminui, como na expansão do gás.
 
-Há, porém, uma forma diferente de variar a energia interna do sistema. Quando o sistema a uma certa temperatura é posto em contato com uma vizinhança que tem uma temperatura diferente, a tendência é que a temperatura se equilibre. Para isso, o sistema com maior energia cinética média (temperatura) fica menos agitado, enquanto o outro fica mais agitado. Esse tipo de troca de energia é chamado de **calor por condução**.
+Há, porém, uma forma diferente de variar a energia interna do sistema. Quando o sistema a uma certa temperatura é posto em contato com uma vizinhança que tem uma temperatura diferente, a tendência é que a temperatura se equilibre. Para isso, o sistema com maior energia cinética média (temperatura) fica menos agitado, enquanto o outro fica mais agitado. Esse tipo de troca de energia é chamado de **calor** por condução.
 
 :::{figure} ./_static/energiacalorconducao.png
 ---
@@ -149,7 +149,7 @@ A figura ilustra a troca de energia que chamamos de calor por condução. As mol
 
 Outro processo de troca de energia envolve radiação. A agitação dos átomos e moléculas é sempre acompanhado de emissão de ondas eletromagnéticas (radiação). Uma característica das ondas eletromagnéticas é a frequência, associada à sensação de cor. Quanto maior a temperatura do corpo, maior a frequência dominante da radiação. O Sol, por ser muito quente, tem cor amarela. Um carvão em brasa, por não ser tão quente, tem frequência dominante no vermelho. Corpos mais frios que a brasa ainda emitem radiação, mas nosso olho não enxerga, pois a frequência dominante é infravermelha. Nosso corpo, por exemplo, emite radiação infravermelha. Vistos por uma câmera de infravermelho (como o olho de um gato), nosso corpo parece uma brasa.
 
-Pode-se mostrar que a radiação também carrega energia, sendo que a energia é maior para frequência maior. Então, dois corpos de temperaturas diferentes podem troca energia por radiação. Chamamos esse processo de **calor por radiação**. A radiação solar e a radição terrestre são tão importantes que será estudadas em separado.
+Pode-se mostrar que a radiação também carrega energia, sendo que a energia é maior para frequência maior. Então, dois corpos de temperaturas diferentes podem troca energia por radiação. Chamamos esse processo de **calor** por radiação.
 
 Quando um fluido não está em equilíbrio térmico e possui regiões com diferentes temperaturas, pode se desencadear um mecanismo eficiente de equilíbrio térmico: a convecção. Quando uma chaleira aquece a água, a parte de baixo da água tem uma temperatura mais alta, por estar em contato com o fundo da chaleira. A tendência será essa região quente subir (por ficar menos densa) forçando a parte cima (mais fria) a descer. Estabelece-se um fluxo de matéria. Chamamos esse processo de **calor por conveccção**.
 
@@ -162,7 +162,7 @@ name: energiaconveccaocumulus
 A figura ilustra a troca de energia na atmosfera na forma de conveccção e sua relação com a formação de nuvens verticais.
 :::
 
-No aquecimento da água em uma chaleira, os três mecanismos estão presentes, como ilustra a [](energiacalormecanismos2). A condução explica o aquecimento da parte de cima da chaleira; correntes de convecção se estabelecem na água; a radiação térmica pode ser percebida nas proximidades da chaleira, mesmo sem o toque.
+Os três mecanismos de troca de energia na forma de calor estão ilustrados na figura abaixo:
 :::{figure} ./_static/energiacalormecanismos2.png
 ---
 width: 400px
@@ -228,11 +228,6 @@ Uma casa contém $1,0 \times 10^5$ kg de concreto. Quanto calor é liberado pelo
 
 Resolução. Pela tabela, cada quilograma de concreto libera $1 kJ = 1000 J$ ao baixar sua temperatura em $1^\circ C$. No exercício, a queda de temperatura é de $5^\circ C$. Assim, cada quilograma de concreto vai liberar $5 kJ$ de energia. Mas, a massa de concreto é $10^5 kg$. Portanto, a energia total liberada será: $10^5\times 5 kJ = 5\times 10^8 J$, que pode ser escrito como $800 MJ$ (mega joule).
 
-Em termos do calor específico, a quantidade de energia necessária para variar a temperatura de $m$ quilogramas de uma substância em $\Delta T$ graus é:
-\begin{equation}
-Q \;=m\;c\;\Delta T.
-\end{equation} 
-
 Pela tabela, vemos que a água líquida demanda muita energia para ser aquecida. Por exemplo, uma massa de areia demanda $5$ vezes menos energia para se aquecer do que a mesma massa de água. Visto de outra maneira, se fornecemos uma mesma quantidade de energia para uma massa de areia e para uma massa correspondente de água, a variação da temperatura da areia será cinco vezes maior.
 
 Os oceanos, por terem grande massa de água absorvem grandes quantidades de calor sem variar significativamente sua temperatura. Dizemos que são ** **reservatórios térmicos**. Em tempos de aquecimento global do planeta, eles mantém a temperatura ambiente sem grandes variações. Essa inércia térmica que os oceanos proporcionam poderá vir a ser um problema pois, uma vez aquecidos, levará anos para que, revertendo-se a tendência de aquecimento global, a Terra volte a se resfriar.
@@ -253,10 +248,10 @@ O processo inverso, ou seja, de solidificação por resfriamento possui as mesma
 Na modelagem simplificada que faremos, a transição de fase de líquido para gás segue um comportamento inteiramente análogo ao da passagem sólido-líquido. Até chegar na temperatura de ebulição da água (100$^\circ$ C), esta permanece líquida, aquecendo ao receber qualquer calor sensível. A 100$^\circ$ C, inicia-se a transição de fase. Até que um certo calor latente de ebulição seja absorvido, haverá água nas fases líquida e gasosa. Após a conclusão da transição de fase, teremos vapor a 100 $^\circ$ C. A partir daí, a absorção de calor acarretará aumento de temperatura. 
 
 O comportamento das trocas de calor com a água passando pelas transições de fase está resumido nas figuras abaixo:
-:::{figure} ./_static/energiascaloraguasensivellatente.png
+:::{figure} ./_static/energiacalormecanismos.png
 ---
 width: 400px
-name: energiascaloraguasensivellatente
+name: energiacalormecanismos
 ---
 A figura ilustra a troca de energia que chamamos de calor por condução. As moléculas do sistema $A$ tem energia cinética média maior (veja o tamanho da setinha) que as de $B$. Ao serem colocados em contato térmico (mesmo que na vizinhança) a energia cinética média de $A$ diminui, e a de $B$ aumenta, até que se igualem.
 :::
@@ -277,45 +272,11 @@ Os calores latentes de fusão e ebulição de algumas substâncias podem ser enc
 
 Calcule a quantidade de calor necessária para levar 1 kg de água da fase sólida, a -20$^\circ$ C, até a fase de vapor, a 120$^\circ$ C.
 
-### Potência
-
-Até aqui, aprendemos a calcular a quantidade de energia relacionada a variações de temperatura ou a mudanças de fase. Não nos preocupamos em calcular a rapidez com que a energia é trocada. Essa rapidez é denominada **potência** energética:
-\begin{equation}
-\hbox{Potência} \;=\; \frac{\hbox{energia trocada}}{\hbox{tempo do processo}}\,.
-\end{equation}
-
-A unidade de medida de potência é o **Watt**: 
-\begin{equation}
-1\; W = 1\; J/s \;\;\;\hbox{(joule por segundo)}\,.
-\end{equation}
-Vamos analisar o cálculo da potência com um exemplo. Você precisa comprar um aquecedor de água para a sua piscina de 20.000 L. Qual deve ser a potência do aquecedor se você quer aquecer a água de $24^\circ$ C para $36,0^\circ$ C em $2 h$? Nos seus cálculos, considere que toda a energia fornecida pelo aquecedor vá para a água, sem perdas para o ambiente.
-
-A quantidade de energia é dada por:
-\begin{equation}
-Q = m\;c\;\Delta T = (2\times 10^4\; kg)\times (4,2\times 10^3\,\frac{J}{kg^\circ C})\times (12^\circ C), 
-\end{equation} 
-o que dá $Q = 1,008\times 10^8 J = 100,8 MJ$. Como $2h = 7200$ s, a potência será:
-\begin{equation}
-Pot = \frac{1,008\times 10^8\;J}{7,2 \times 10^3\;s} = 140\,kW, 
-\end{equation} 
-Portanto, a potência do aquecedor deve ser $140$ kW.
-
-Se conhecemos a potência de um processo ou dispositivo, podemos calcular a energia trocada em um determinado tempo fazendo uma simples multiplicação. Por exemplo, uma lâmpada de $100$ W ligada por 1 minuto consome $(60 W)\times (100 s) = 6 kJ$. Uma unidade de energia muito usada nas contas de luz é o **kilowatt-hora** (kWh). Ela corresponde ao consumo de um dispositivo de 1 kW ligado por 1 h:
-\begin{equation}
-1 kWh = 1 kW \times 3600 s = 3,6 MJ. 
-\end{equation} 
-
-
-
-
-
-
-
-
 
 
 ### Exercícios
 
+2) Você precisa comprar um aquecedor de água para a sua piscina de 20.000 L. Desprezando as perdas de calor da água da piscina para o ambiente, qual deve ser potência desse aquecedor se você quer que a água passe de $24^\circ$ C para $36,0^\circ$ C em $2$ h? Resp.: 140 kW.
 
 3) O calor específico do cobre é mais do que o dobro do calor específico do chumbo. Um bloco de
 cobre e um bloco de chumbo têm a mesma massa e a mesma temperatura (20$^\circ$C). Os blocos são jogados
