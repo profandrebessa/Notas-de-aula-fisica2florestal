@@ -305,7 +305,7 @@ Se conhecemos a potência de um processo ou dispositivo, podemos calcular a ener
 1 kWh = 1 kW \times 3600 s = 3,6 MJ. 
 \end{equation} 
 
-## Evaporação e transpiração
+## Evaporação e evapotranspiração
 
 Vimos que a ebulição da água envolve muito mais energia do que aquecer a água líquida. Há muita energia guardada nas ligações entre moléculas de água vizinhas na fase líquida. Na temperatura de ebulição, a situação é tal que, ao longo de todo o volume de água essas ligações vão sendo desfeitas, dando lugar a bolhas da fase gasosa. 
 
@@ -315,9 +315,9 @@ Se a água líquida está em um recipiente fechado, as moléculas que escaparam 
 
 Definimos a **umidade relativa do ar** como o quociente:
 \begin{equation}
-\hbox{umidade relativa do ar} = \frac{\hbox{pressão de vapor atual}}{\hbox{pressao de vapor na saturação}}. 
+\hbox{umidade relativa do ar} = \frac{\hbox{pressão de vapor atual}{\hbox{pressao de vapor na saturação}}. 
 \end{equation} 
-A pressão de vapor na saturação depende da pressão atmosférica e da temperatura. O instrumento que mede a umidade relativa do ar é o **higrômetro**. 
+A pressão de vapor na saturação depende da pressão atmosférica e da temperatura. 
 
 Quando o recipiente com água está aberto, as moléculas na fase gasosa praticamente não retornam mais, especialmente se uma corrente de ar (vento) as empurrá-las para longe. Ao soprarmos o café em uma xícara, estamnos contribuindo para a evaporação da água e, portanto, resfriando o café. Ao estendermos uma roupa no varal, estamos criando uma grande interface água-ar, aberta, maximizando a evaporação. É o efeito do vento, e não do Sol, o principalk responsável pela secagem rápida das roupas. 
 
@@ -363,14 +363,6 @@ Vemos que o solo úmido aquece muito menos porque parte significativa da energia
 A evaporação é um processo físico que acontece com corpos vivos ou não. Acabamos de analisar a evaporação no solo úmido. Alguns organismos vivos desenvolvem estratégias fisiológicas para controlar e potencializar a taxa de evaporação da água interior. Este processo é chamado de **transpiração**. 
 
 Do ponto de vista da fisiologia vegetal, a transpiração está intimamente ligada ao funcionamento dos estômatos. Essas estruturas regulam simultaneamente a entrada de $CO_2$ para a fotossíntese e a saída de vapor d’água. Quando os estômatos estão abertos, há maior assimilação de carbono, mas também maior perda de água — um compromisso fundamental para a planta. A água evaporada nas folhas cria um gradiente de potencial hídrico que “puxa” a coluna de água desde o solo, através do xilema, permitindo o transporte de nutrientes e a manutenção da turgescência. 
-
-:::{figure} ./_static/energiaestomatos.png
----
-width: 400px
-name: energiaestomatos
----
-A figura ilustra a troca de energia que chamamos de calor por condução. As moléculas do sistema $A$ tem energia cinética média maior (veja o tamanho da setinha) que as de $B$. Ao serem colocados em contato térmico (mesmo que na vizinhança) a energia cinética média de $A$ diminui, e a de $B$ aumenta, até que se igualem.
-:::
 
 Esse processo tem um papel central no balanço energético da superfície de um ecossistema. Em áreas vegetadas e úmidas, grande parte da energia disponível é gasta na transpiração realizada na grande cobertura superficial das folhas. A evaporação da água no solo é importante, mas de menor relevância. Os dois processos combinados recebem o nome de **evapotranspiração**. Esse mecanismo é o principal responsável por fazer com que as florestas tendam a apresentar temperaturas mais amenas e menor amplitude térmica diária. Além disso, o resfriamento das folhas ajuda a reduzir os efeitos de temperaturas excessivas que poderiam prejudicar processos bioquímicos. 
 
