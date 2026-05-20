@@ -29,8 +29,9 @@ Exemplo: uma pedra de 1 kg atinge o chão com velocidade de 3 m/s. Qual era a su
 K = 0,5*(1\,kg)*(3\,m/s)^2= 4,5\,J\,.
 \end{equation}
 
+#### Experimento mental
 
-Experimento mental: dois corpos grandes como planetas estão distantes e se movem, se aproximando. Inicialmente, um tinha energia cinética $K_1$ e o outro, $K_2$. A energia cinética combinada era $K_{12}=K_1+K_2$. A trajetória dos planetas é tal que eles se aproximam. Pela força da gravidade, um sente a presença do outro. Suas velocidades se alteram. Neste momento, a soma das energias cinéticas não é mais a mesma de antes. Após um tempo, cada um segue uma trajetória e eles se afastam. Ao fim, a energia cinética do planeta 1 vai ser $K'_1\neq K_1$ e a do planeta 2 será $K_2' \neq K_2$. Porém, $K_1'+K_2' = K_1+K_2$.  
+Dois corpos grandes como planetas estão distantes e se movem, se aproximando. Inicialmente, um tinha energia cinética $K_1$ e o outro, $K_2$. A energia cinética combinada era $K_{12}=K_1+K_2$. A trajetória dos planetas é tal que eles se aproximam. Pela força da gravidade, um sente a presença do outro. Suas velocidades se alteram. Neste momento, a soma das energias cinéticas não é mais a mesma de antes. Após um tempo, cada um segue uma trajetória e eles se afastam. Ao fim, a energia cinética do planeta 1 vai ser $K'_1\neq K_1$ e a do planeta 2 será $K_2' \neq K_2$. Porém, $K_1'+K_2' = K_1+K_2$. 
 
 Concluímos que, enquanto interagiam, a contabilidade de energia ainda podia ser feita, embora ela não fosse apenas cinética. A diferença na contabilidade ganha um nome: **energia potencial**.
 
@@ -282,38 +283,7 @@ Os calores latentes de fusão e ebulição de algumas substâncias podem ser enc
 
 **Exercício**
 
-Calcule a quantidade de energia necessária para levar 1 kg de água da fase sólida, a -20$^\circ$ C, até a fase de vapor, a 120$^\circ$ C. 
-
-**Resolução:** Temos que calcular a transferência de calor em cada um dos cinco processos indicados na [](energiascaloraguasensivellatente). 
-
-- Aquecimento do gelo, de $-20^\circ C$ a $0^\circ C$. Aqui, temos que usar o calor específico do gelo. Teremos: 
-\begin{equation}
-Q_1 = (1 kg)\times (2100\,\frac{J}{kg^\circ C})\times (20^\circ C) = 42 kJ.
-\end{equation}
-
-- Fusao do gelo em água a $0^\circ C$. Utilizamos o calor latente de fusão do gelo, $L_f=333,5\, kJ/kg$. Teremos:
-\begin{equation}
-Q_2 = (1 kg)\times (333,5\,kJ) = 333,5 kJ.
-\end{equation}
-
-- Aquecimento da água, de $0^\circ C$ a $100^\circ C$. Aqui, temos que usar o calor específico da água líquida: $4200 J/(kg^\circ C)$. Teremos: 
-\begin{equation}
-Q_3 = (1 kg)\times (4200\,\frac{J}{kg^\circ C})\times (100^\circ C) = 420\,kJ.
-\end{equation}
-
-- Ebulição da água a $100^\circ C$. Utilizamos o calor latente de vaporização da água, $L_v=2357\, kJ/kg$. Teremos:
-\begin{equation}
-Q_4 = (1 kg)\times (2357\,kJ) = 2357\, kJ.
-\end{equation}
-
-- Aquecimento do vapor d'água, de $100^\circ C$ a $120^\circ C$. Finalmente, temos que usar o calor específico do vapor: $1900 J/(kg^\circ C)$. Teremos: 
-\begin{equation}
-Q_5 = (1 kg)\times (1900\,\frac{J}{kg^\circ C})\times (20^\circ C) = 38 kJ.
-\end{equation}
-A energia total é:
-\begin{equation}
-Q_{tot} = Q_1 + Q_2 + Q_3 + Q_4 + Q_5 = 3,19\, MJ.
-\end{equation}
+Calcule a quantidade de calor necessária para levar 1 kg de água da fase sólida, a -20$^\circ$ C, até a fase de vapor, a 120$^\circ$ C. 
 
 ## Potência 
 

@@ -29,8 +29,9 @@ Exemplo: uma pedra de 1 kg atinge o chão com velocidade de 3 m/s. Qual era a su
 K = 0,5*(1\,kg)*(3\,m/s)^2= 4,5\,J\,.
 \end{equation}
 
+#### Experimento mental
 
-Experimento mental: dois corpos grandes como planetas estão distantes e se movem, se aproximando. Inicialmente, um tinha energia cinética $K_1$ e o outro, $K_2$. A energia cinética combinada era $K_{12}=K_1+K_2$. A trajetória dos planetas é tal que eles se aproximam. Pela força da gravidade, um sente a presença do outro. Suas velocidades se alteram. Neste momento, a soma das energias cinéticas não é mais a mesma de antes. Após um tempo, cada um segue uma trajetória e eles se afastam. Ao fim, a energia cinética do planeta 1 vai ser $K'_1\neq K_1$ e a do planeta 2 será $K_2' \neq K_2$. Porém, $K_1'+K_2' = K_1+K_2$.  
+Dois corpos grandes como planetas estão distantes e se movem, se aproximando. Inicialmente, um tinha energia cinética $K_1$ e o outro, $K_2$. A energia cinética combinada era $K_{12}=K_1+K_2$. A trajetória dos planetas é tal que eles se aproximam. Pela força da gravidade, um sente a presença do outro. Suas velocidades se alteram. Neste momento, a soma das energias cinéticas não é mais a mesma de antes. Após um tempo, cada um segue uma trajetória e eles se afastam. Ao fim, a energia cinética do planeta 1 vai ser $K'_1\neq K_1$ e a do planeta 2 será $K_2' \neq K_2$. Porém, $K_1'+K_2' = K_1+K_2$. 
 
 Concluímos que, enquanto interagiam, a contabilidade de energia ainda podia ser feita, embora ela não fosse apenas cinética. A diferença na contabilidade ganha um nome: **energia potencial**.
 
@@ -314,6 +315,9 @@ A energia total é:
 \begin{equation}
 Q_{tot} = Q_1 + Q_2 + Q_3 + Q_4 + Q_5 = 3,19\, MJ.
 \end{equation}
+
+
+
 
 ## Potência 
 
