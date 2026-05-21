@@ -359,7 +359,7 @@ Definimos a **umidade relativa do ar** como o quociente:
 \end{equation} 
 A pressão de vapor na saturação depende da pressão atmosférica e da temperatura. O instrumento que mede a umidade relativa do ar é o **higrômetro**. 
 
-Quando o recipiente com água está aberto, as moléculas na fase gasosa praticamente não retornam mais, especialmente se uma corrente de ar (vento) as empurrá-las para longe. Ao soprarmos o café em uma xícara, estamnos contribuindo para a evaporação da água e, portanto, resfriando o café. Ao estendermos uma roupa no varal, estamos criando uma grande interface água-ar, aberta, maximizando a evaporação. É o efeito do vento, e não do Sol, o principal responsável pela secagem rápida das roupas. 
+Quando o recipiente com água está aberto, as moléculas na fase gasosa praticamente não retornam mais, especialmente se uma corrente de ar (vento) as empurrá-las para longe. Ao soprarmos o café em uma xícara, estamnos contribuindo para a evaporação da água e, portanto, resfriando o café. Ao estendermos uma roupa no varal, estamos criando uma grande interface água-ar, aberta, maximizando a evaporação. É o efeito do vento, e não do Sol, o principalk responsável pela secagem rápida das roupas. 
 
 Quando o sistema em estudo é a atmosfera, o solo, os oceanos, etc funcionam como um recipiente para o ar. Assim, ocorre a saturação do ar e faz sentido falar em umidade e umidade relativa do ar.
 
@@ -423,20 +423,6 @@ Em escala de ecossistema, a evapotranspiração contribui para a umidificação 
 
 Tudo o que acontece na Natureza envolve transformações de energia, de uma forma para outra. Quando o sistem em análise é o planeta Terra, a entrada de radiação do Sol desempenha um papel fundamental na contabilidade energética. Vimos que os corpos irradiam energia devido à agitação térmica das partículas que o compõem. As características dessa radiação (chamada de **espectro de emissão**) dependem basicamente da temperatura do corpo. Antes de vermos as características da radiação solar e terrestre, vamos ver alguns conceitos relacionados à radiação. 
 
-### Intensidade da radiação
-
-A intensidade está relacionada à quantidade de energia que atinge uma superfície em um certo intervalo de tempo. Ou seja, está relacionada à potência da radiação. Em um minuto de um dia de sol, uma área grande de solo receberá mais energia do que uma área menor, próxima. Naturalmente, a quantidade de energia solar captada aumenta com a área. Por isso, um projeto de placas solares (fotovoltaicas) vai depender da área do telhado de uma casa. 
-
-Placas maiores recebem mais energia solar. Mas, isso não quer dizer que o Sol é mais "forte" sobre a placa maior. A intensidade é definida como o quociente:
-\begin{equation}
-I = \frac{\hbox{potência irradiada}}{\hbox{área da superfície}}\;.
-\end{equation}
-Sua unidade é $W/m^2$ (watt por metro quadrado). O valor de referência para a radiação solar que atinge a superfície da Terra é $1370$ W/m$^2$. Claro que essa intensidade varia com o local, a época do ano, a hora do dia, as condições climáticas, etc. Pense nela como um valor máximo.
-
-#### Exercício
-
-Um solo tem densidade de $2\times 10^3\,kg/m^3$ e calor específico $c_u = 1800\, J/(kg^\circ C)$. A água evapora do solo a uma taxa de $1,0\times 10^{-4}\text{kg/s}$. Se a intensidade solar é $800\,W/m^2$, calcule a variação da temperatura em 1 h de exposição.
-
 ### O espectro eletromagnético
 
 As ondas eletromagnéticas carregam energia. Na maior parte dos fenômenos, as ondas eletromagnéticas se apresentam como ondas periódicas, fruto da oscilação periódica do campo eletromagnético. A rapidez da oscilação desses campos é medida pela **frequência**,  ou seja, pela quantidade de oscilações feitas em 1 segundo. A frequência normalmente é representada pela letra $f$ e sua unidade é o **hertz** (Hz).
@@ -495,56 +481,12 @@ O planeta Terra também emite radiação térmica. Como a temperatura da Terra �
 Um pedaço de ferro emite radiação infravermelha. Quando é aquecido e vira brasa, sua temperatura fica tão alta que a radição emitida entra na região visível: o ferro encandesce diante dos nossos olhos, mesmo no escuro. 
 :::{figure} ./_static/energiaradiacaobrasa.jpg
 ---
-width: 400px
+width: 600px
 name: energiaradiacaobrasa
 ---
 Quando o ferro é aquecido, a radiação que ele emite tem um pico de intensidade em um comprimento de onda visível pelo olho humano.
 ---
 :::
-
-#### Balanço radiativo da Terra
-
-A radiação do Sol atinge a Terra. Como é a contabilidade dessa energia? A energia interna da Terra aumenta por conta disso? A radiação atinge a superfície de forma igual em diferentes partes do planeta? O que muda no balanço energético de um lugar quando se passa do dia para a noite? Veremos as respostas a essas perguntas aqui.
-
-Já sabemos que a radição do Sol é mais intensa que a da Terra, pelo fato de o Sol estar a uma temperatura maior. Como estamos distantes do Sol, apenas uma pequena fração da energia emitida pela estrela atinge nosso planeta. Já na chegada, cerca de $26\%$ da energia é refletida para o espaço pelas nuvens e pela atmosfera. A superfície da Terra (oceanos, desertos, gelo, etc) reflete $3\%$. Assim, ao todo $30%$ da radiação solar é refletida de volta para o espaço. O $70\%$ restante é absorvido pela atmosfera e o solo.
-
-A temperatura da Terra é tal que a intensidade da radiação terrestre para o espaço corresponde exatamente a esses $70\%$ de radiação solar absorvido pela Terra. Se, por algum evento, o saldo passa a ser positivo, a Terra se esquentaria e, portanto, passaria a emitir mais intensamente, zerando o saldo novamente.
-
-Vemos, então, que o conteúdo de energia da Terra se mantém constante, graças ao equilíbrio entre a radiação solar e a terrestre. 
-
-Agora, vamos analisar o destino da radiação solar que não é refletida. Ao todo, tem que somar $70\%$ do total que chega à Terra. Cerca de $16\%$ da energia é absorvida pela atmosfera e $3\%$ pelas nuvens. O $51\%$ restante é absorvido pela superfície, incluindo os oceanos.
-:::{figure} ./_static/energiabalancoradiacaosolterra.jpg
----
-width: 600px
-name: energiabalancoradiacaosolterra
----
-Mapa da intensidade anual da radiação solar. 
----
-:::
-
-Esse equilíbrio é na contabilidade global. A radiação solar não atinge a Terra de maneira uniforme. Junto à Linha do Equador, a radiação é mais intensa. Nos polos, tem a menor intensidade. 
-:::{figure} ./_static/energiaintensidadesolarmapa.jpg
----
-width: 600px
-name: energiaintensidadesolarmapa
----
-Mapa da intensidade anual da radiação solar. 
----
-:::
-O comportamento mostrado no mapa da [](energiaintensidadesolarmapa) não está relacionado à proximidade do Sol, mas ao ângulo de incidência do Sol em cada região. Perceba, na [](energiainclinacaosol), que as faixas de radiação solar incidem de forma concentrada no Equador e cada vez mais espalhadas em direção aos polos. 
-:::{figure} ./_static/energiainclinacaosol.png
----
-width: 400px
-name: energiainclinacaosol
----
-Figura que explica o porquê de a intensidade solar ser maior junto ao Equador terrestre.
----
-:::
-
-O gradiente de energia entre o Equador dá origem a uma série de fenômenos.Lembra do conceito de equilíbrio termodinâmico? É uma lei da Natureza, de que tudo caminha para uma uniformidade. As correntes marítimas, os deslocamentos de massa de ar, as tempestades, ventos, tornados, etc, são mecanismos da nossa atmosfera visando ao equilíbrio da temperatura global. E o homem está interferindo decisivamente neste sistema. 
-
-
-
 
 
 

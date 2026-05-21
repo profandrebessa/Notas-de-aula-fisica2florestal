@@ -359,7 +359,7 @@ Definimos a **umidade relativa do ar** como o quociente:
 \end{equation} 
 A pressão de vapor na saturação depende da pressão atmosférica e da temperatura. O instrumento que mede a umidade relativa do ar é o **higrômetro**. 
 
-Quando o recipiente com água está aberto, as moléculas na fase gasosa praticamente não retornam mais, especialmente se uma corrente de ar (vento) as empurrá-las para longe. Ao soprarmos o café em uma xícara, estamnos contribuindo para a evaporação da água e, portanto, resfriando o café. Ao estendermos uma roupa no varal, estamos criando uma grande interface água-ar, aberta, maximizando a evaporação. É o efeito do vento, e não do Sol, o principal responsável pela secagem rápida das roupas. 
+Quando o recipiente com água está aberto, as moléculas na fase gasosa praticamente não retornam mais, especialmente se uma corrente de ar (vento) as empurrá-las para longe. Ao soprarmos o café em uma xícara, estamnos contribuindo para a evaporação da água e, portanto, resfriando o café. Ao estendermos uma roupa no varal, estamos criando uma grande interface água-ar, aberta, maximizando a evaporação. É o efeito do vento, e não do Sol, o principalk responsável pela secagem rápida das roupas. 
 
 Quando o sistema em estudo é a atmosfera, o solo, os oceanos, etc funcionam como um recipiente para o ar. Assim, ocorre a saturação do ar e faz sentido falar em umidade e umidade relativa do ar.
 
@@ -432,10 +432,6 @@ Placas maiores recebem mais energia solar. Mas, isso não quer dizer que o Sol �
 I = \frac{\hbox{potência irradiada}}{\hbox{área da superfície}}\;.
 \end{equation}
 Sua unidade é $W/m^2$ (watt por metro quadrado). O valor de referência para a radiação solar que atinge a superfície da Terra é $1370$ W/m$^2$. Claro que essa intensidade varia com o local, a época do ano, a hora do dia, as condições climáticas, etc. Pense nela como um valor máximo.
-
-#### Exercício
-
-Um solo tem densidade de $2\times 10^3\,kg/m^3$ e calor específico $c_u = 1800\, J/(kg^\circ C)$. A água evapora do solo a uma taxa de $1,0\times 10^{-4}\text{kg/s}$. Se a intensidade solar é $800\,W/m^2$, calcule a variação da temperatura em 1 h de exposição.
 
 ### O espectro eletromagnético
 
