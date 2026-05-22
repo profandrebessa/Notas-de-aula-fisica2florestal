@@ -578,23 +578,10 @@ Gráfico da intensidade solar ao longo de um dia de equinócio, quando a duraç�
 :::
 Pelo gráfico, entre $18h$ e $6h$ do dia seguinte a intensidade solar é nula: o Sol está iluminando outras regiões. O gráfico deve corresponder a um dia de equinócio (início do outono ou da primavera). Em outros momentos do ano, a duração pode ser maior ou menor do que $12 h$ Esse efeito é muito mais pronunciado nas altas latitudes. Em Recife, onde a latitude é cerca de $8^\circ$, a duração do dia praticamente não muda. A contribuição 
 
-A [](energiahoradodia) mostra o comportamento da radiação solar. Por outro lado, a intensidade da radiação da superfície da Terra (perdas por radiação) é aproximadamente constante em cada local, não apresentando essa oscilação diária da intensidade solar. 
+
+A [](energiahoradodia) mostra o comportamento da radiação solar. Por outro lado, a intensidade da radiação da superfície da Terra (perdas por radiação) é aproximadamente constante, não apresentando essa oscilação diária da intensidade solar. 
 
 A contribuição radiativa do sistema nuvem/atmosfera e a das taxas de condução e evapotranspiração variam bastante com as condições atmosférica. O saldo final das trocas energéticas na superfície pode ser positivo ou negativo, a depender da hora do dia, da época do ano, da temperatura, da presença e do tipo de nuvens, da umidade relativa do ar. da composição química da atmosfera, etc.
-
-Veja a variação da temperatura em um dia na cidade de Recife:
-:::{figure} ./_static/energiatemperaturadia.png
----
-width: 700px
-name: energiatemperaturadia
----
-Gráfico da temperatura ao longo de 24 horas em Recife. 
----
-:::
-Perceba que a temperatura máxima não ocorre quando a intensidade solar é máxima. A temperatura será máxima no meio da tarde. O final da madrugada é onde ocorrem as mínimas temperaturas.
-
-À noite, a tendência é sempre de resfriamento pela emissão da radição terrestre. Noites de céu limpo, sem nuvens, tendem a ser mais frias. Isso acontece, porque as nuvens contribuem como um colchão, irradiando de volta parte da energia emitida pela Terra. Assim, fenômenos como a geada, ocorrem mais facilmente em noites sem nuvens. A geada ocorre quando uma superfície esfria abaixo de $0^\circ C$, fazendo com que o vapor d’água do ar se deposite na superfície das folhas como gelo. Em um dia em que ocorre a geada ou orvalho, que esses fenômenos não atingem a vegetação localizada embaixo da copa de árvores. Isso ocorre porque as árvores também emitem de volta a radiação infravermelha terrestre. Ou seja, à noite, o solo embaixo das árvores é ligeiramente mais quente do que em um campo aberto.
-
 
 
 
